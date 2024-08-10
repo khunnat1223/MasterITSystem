@@ -9,6 +9,7 @@
         ទាក់ទងមកពួកយើង
       </button>
     </div>
+    <h1>Hello Oun Rathan</h1>
     <div class="w-1/2 ">
       <div class=" top-0 right-0 bottom-0 left-0 flex items-center justify-center -mr-96">
         <img  src="@/assets/image/image.png" alt="Hero Image" class="w-full h-full border-white border-8 object-cover rounded-full bo">
